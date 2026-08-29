@@ -126,8 +126,8 @@ The osTicket prerequisite check showed that some PHP extensions needed to be ena
 
 I refreshed the osTicket installation page to confirm that the required and recommended dependencies were available.
 
-![osTicket prerequisite verification](<img width="2244" height="1401" alt="40EBAF69-6A33-488A-85E2-974ABC5B79BF_1_102_a" src="https://github.com/user-attachments/assets/e53a18fa-a7aa-4873-a206-9936f8fcfc15" />
-)
+![osTicket prerequisite verification]
+<img width="2244" height="1401" alt="40EBAF69-6A33-488A-85E2-974ABC5B79BF_1_102_a" src="https://github.com/user-attachments/assets/be17e1d2-b5bf-4eb6-8e56-ced76f89871e" />
 
 ### 9. Create the osTicket Configuration File
 
