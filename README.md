@@ -193,7 +193,9 @@ http://localhost/osTicket/scp/login.php
 http://localhost/osTicket/
 ```
 
-![osTicket Agent Control Panel](<img width="3024" height="1884" alt="image" src="https://github.com/user-attachments/assets/fd149dc9-ff7b-41fc-b78f-ef3cdb8dd5ea" />)
+![osTicket Agent Control Panel]
+
+<img width="3024" height="1884" alt="image" src="https://github.com/user-attachments/assets/72a54bb6-f6d0-4291-80ba-d32960ec7bea" />
 
 
 ## Post-Installation Security
