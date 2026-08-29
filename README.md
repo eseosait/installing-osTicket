@@ -154,6 +154,10 @@ C:\inetpub\wwwroot\osTicket\include\ost-config.php
 ```
 
 I temporarily adjusted the file permissions so the installer could write the required configuration settings.
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f6c37c9a-6312-43f1-8c7c-5e2a35f62f8d" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/babddfdd-57b0-4b43-8aab-9d660e762e10" />
+
+
 
 ### 10. Create the osTicket Database
 
