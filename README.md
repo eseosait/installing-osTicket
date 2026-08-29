@@ -20,4 +20,5 @@ I prepared a Windows virtual machine and installed the components required to ru
 
 - Confirmed access to the administrator and support portals
 
-![osTicket installation prerequisites](images/installation-prerequisites.png)
+![osTicket installation prerequisites](<img width="2200" height="1429" alt="40EBAF69-6A33-488A-85E2-974ABC5B79BF_1_102_o" src="https://github.com/user-attachments/assets/73bc032c-ef49-40f6-874b-a1c614cac5a6" />
+)
