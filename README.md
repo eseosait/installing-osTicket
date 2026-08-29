@@ -56,6 +56,9 @@ I installed the following supporting components:
 - MySQL 5.5.62
 - HeidiSQL
 
+<img width="3024" height="1885" alt="image" src="https://github.com/user-attachments/assets/36fae32a-8d57-4716-b7cf-a59e97ad8bdf" />
+
+
 I created the following directory for PHP:
 
 ```text
@@ -63,7 +66,6 @@ C:\PHP
 ```
 
 I then extracted the PHP files into that directory.
-<img width="3024" height="1885" alt="image" src="https://github.com/user-attachments/assets/b565c1ad-2b3b-4283-a9ac-84fdd90b2370" />
 
 
 ### 5. Configure MySQL
